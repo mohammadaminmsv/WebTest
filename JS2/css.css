@@ -1,0 +1,20 @@
+
+table ,th,td
+{
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    width: 1000px;
+   
+
+}
+
+div
+{
+    width: 1000px;
+    box-align:center ;
+    position:fixed;
+    margin-left: 250px;
+    margin-top: 100px;
+
+}
