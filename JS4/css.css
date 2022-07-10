@@ -1,0 +1,13 @@
+#slides img
+{
+    width: 400px;
+    height: 200px;
+    display: none;
+    
+}
+
+
+#slides img:first-child
+{
+    display: inline;
+}
