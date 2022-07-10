@@ -1,0 +1,10 @@
+table,th,td
+{
+    margin: auto;
+    border: 1px;
+    width: auto;
+    border-width:2px ;
+    border-color: black;
+    border-style: solid;
+}
+
