@@ -1,0 +1,59 @@
+body{
+    background-color: lightsalmon;
+  
+}
+
+#head{
+    position: sticky;
+    color: aliceblue;
+    background-color: black;
+    padding: 20px;
+    font-size: larger;
+}
+
+#title{
+    text-align: right;
+    margin-right: 900px;
+}
+
+
+
+
+#wrapper{
+    text-align: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#quote-box{
+    background-color: white;
+    width: auto;
+    height: auto;
+    text-align: center;
+    display: table;
+    margin: 250px;
+    padding: 20px;
+}
+
+#text{
+    text-align: center;
+    font-size: larger;
+}
+
+#author{
+    text-align: right;
+}
+
+#tweet-quote{
+    display: inline-block;
+    margin-right: 300px;
+}
+
+#new-quote{
+    text-align: right;
+    display: inline-block;
+}
+
